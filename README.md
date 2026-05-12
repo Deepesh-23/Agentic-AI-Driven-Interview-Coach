@@ -1,4 +1,4 @@
-## AI Interview Coach Platform
+## AI Interview Training System
 
 Reimagining interview preparation with non-invasive AI-driven coaching and real-time posture analytics.
 
